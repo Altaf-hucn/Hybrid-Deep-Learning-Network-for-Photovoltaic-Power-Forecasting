@@ -13,3 +13,6 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 
 Best regards,
 ALTAF HUSSAIN
+
+![Image 1 Description](Results/CNNGRU.png)
+
