@@ -6,24 +6,26 @@ For efficient energy distribution, microgrids (MG) provide significant assistanc
 ## Proposed Framework 
 ![Image 1 Description](Results/Framework.png)
 
+# Details About Our Datasets
+
 | Dataset                   | Technical Specification          | Value                   |
 |---------------------------|----------------------------------|-------------------------|
-| DKASC-AS-1A [67]          | Manufacturer: Trina             | PV Technology: mono-Si  |
+| DKASC-AS-1A               | Manufacturer: Trina             | PV Technology: mono-Si  |
 |                           | Array Structure: Dual Axis Tracker | Panel Size: 2 x 38.37 m² |
 |                           | Array Tilt/Azimuth: Variable, Dual axis tracking | Generation Capacity of a Panel: 175W |
 |                           | Number of Solar Panels: 2×30    | Power Generation Capacity: 10.5kW |
 |                           | Duration: 08-14-2013 ~ 07-01-2021 |                          |
-| DKASC-AS-1B [68]          | Manufacturer: Trina             | PV Technology: mono-Si  |
+| DKASC-AS-1B               | Manufacturer: Trina             | PV Technology: mono-Si  |
 |                           | Array Structure: Dual Axis Tracker | Panel Size: 4 x 38.37 m² |
 |                           | Array Tilt/Azimuth: Variable, Dual axis tracking | Generation Capacity of a Panel: 195W |
 |                           | Number of Solar Panels: 4 × 30   | Power Generation Capacity: 23.4kW |
 |                           | Duration: 8-14-2013 ~ 7-1-2021   |                          |
-| DKASC-AS-2Eco [69]        | Manufacturer: eco-Kinetics      | PV Technology: mono-Si  |
+| DKASC-AS-2Eco             | Manufacturer: eco-Kinetics      | PV Technology: mono-Si  |
 |                           | Array Structure: Dual Axis Tracker | Panel Size: 199.16 m²   |
 |                           | Array Tilt/Azimuth: Fixed, Tilt = 20', Azimuth = 0' | Generation Capacity of a Panel: 170W |
 |                           | Number of Solar Panels: 156      | Power Generation Capacity: 26.52kW |
 |                           | Duration: 8-24-2010 ~ 8-22-2020  |                          |
-| DKASC-Yulara-SITE-3A [70] | PV Technology: mono-Si          | Array Structure: Roof Mount |
+| DKASC-Yulara-SITE-3A      | PV Technology: mono-Si          | Array Structure: Roof Mount |
 |                           | Panel Type: SunPower SPR-327NE   | Array Tilt/Azimuth: Tilt = 10, Azi = 0 (Solar North) |
 |                           | Generation Capacity of a Panel: 327W | Number of Solar Panels: 69 |
 |                           | Power Generation Capacity: 22.56kW | Duration: 4-1-2016 ~ 6-27-2022 |
