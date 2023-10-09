@@ -6,7 +6,7 @@ For efficient energy distribution, microgrids (MG) provide significant assistanc
 ## Proposed Framework 
 ![Image 1 Description](Results/Framework.png)
 
-# Details About Our Datasets
+## Details About Our Datasets
 
 | Dataset                   | Technical Specification          | Value                   |
 |---------------------------|----------------------------------|-------------------------|
