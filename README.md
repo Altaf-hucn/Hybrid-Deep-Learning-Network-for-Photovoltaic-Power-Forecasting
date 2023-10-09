@@ -1,4 +1,4 @@
-[# Hybrid-Deep-Learning-Network-for-Photovoltaic-Power-Forecasting](https://www.hindawi.com/journals/complexity/2022/7040601/)
+[Hybrid-Deep-Learning-Network-for-Photovoltaic-Power-Forecasting](https://www.hindawi.com/journals/complexity/2022/7040601/)
 
 
 ## Abstract
