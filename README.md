@@ -76,8 +76,7 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 |                     | CNN-GRU       | 0.3063| 0.0938 | 0.1506 | 0.0354  |
 |                     | LSTM-CNN      | 0.2465| 0.0608 | 0.155  | 0.0919  |
 |                     | GRU-CNN       | 0.1715| 0.0294 | 0.1126 | 0.0099  |
-##### Comparision with SOTA
-# Method Performance on Datasets
+###### Comparision with SOTA
 
 | Dataset             | Method       | RMSE  | MSE  | MAE   | MBE    |
 |---------------------|--------------|-------|------|-------|--------|
