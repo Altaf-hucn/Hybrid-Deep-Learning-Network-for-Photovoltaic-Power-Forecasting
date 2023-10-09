@@ -96,6 +96,6 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 |                           | RCC-Elman[71]| 1.158 | - | - | -      |
 |                           | LSTM[71]     | 1.017 | - | - | -      |
 |                           | RCC-LSTM[71] | 0.94  | - | 0.587| -      |
-|                           | GRU-CNN      | 0.1715| 0.0294| 0.1126| 0.0099 |
+|                           | The Proposed (GRU-CNN)      | 0.1715| 0.0294| 0.1126| 0.0099 |
 
 
