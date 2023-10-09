@@ -40,7 +40,7 @@ Thank you for your interest in our datasets. Due to size limitations on GitHub, 
 We appreciate your understanding and patience. Looking forward to assisting you!
 
 ## Results
-# Model Performance on Datasets
+#### Comparative analysis of the proposed model with different existing deep learning models. Herein, DKASC-AS-1A, DKASC-AS-1B, DKASC-AS-2Eco, and DKASC-Yulara-SITE-3A represent the PV power datasets. 
 
 | Dataset             | Model         | RMSE  | MSE    | MAE    | MBE     |
 |---------------------|---------------|-------|--------|--------|---------|
@@ -76,6 +76,6 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 |                     | CNN-GRU       | 0.3063| 0.0938 | 0.1506 | 0.0354  |
 |                     | LSTM-CNN      | 0.2465| 0.0608 | 0.155  | 0.0919  |
 |                     | GRU-CNN       | 0.1715| 0.0294 | 0.1126 | 0.0099  |
-
+## Comparision with 
 
 
