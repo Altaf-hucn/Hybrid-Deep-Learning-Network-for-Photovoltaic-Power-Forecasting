@@ -44,7 +44,7 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 
 | Dataset             | Model         | RMSE  | MSE    | MAE    | MBE     |
 |---------------------|---------------|-------|--------|--------|---------|
-| DKASC-AS-1A [67]    | Decision Tree | 0.4531| 0.2053 | 0.2484 | 0.0684  |
+| DKASC-AS-1A         | Decision Tree | 0.4531| 0.2053 | 0.2484 | 0.0684  |
 |                     | SVR           | 0.4309| 0.1857 | 0.2373 | 0.0463  |
 |                     | LSTM          | 0.3118| 0.0972 | 0.1578 | -0.0283 |
 |                     | GRU           | 0.3004| 0.0902 | 0.144  | 0.0322  |
@@ -52,7 +52,7 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 |                     | CNN-GRU       | 0.2606| 0.0679 | 0.1535 | 0.082   |
 |                     | LSTM-CNN      | 0.2239| 0.0501 | 0.1485 | -0.1472 |
 |                     | GRU-CNN       | 0.1468| 0.0216 | 0.0742 | 0.0171  |
-| DKASC-AS-1B [68]    | Decision Tree | 0.5344| 0.2856 | 0.3365 | -0.0824 |
+| DKASC-AS-1B         | Decision Tree | 0.5344| 0.2856 | 0.3365 | -0.0824 |
 |                     | SVR           | 0.5087| 0.2588 | 0.303  | 0.0709  |
 |                     | LSTM          | 0.3949| 0.1559 | 0.2219 | 0.0287  |
 |                     | GRU           | 0.389 | 0.1514 | 0.2064 | 0.0089  |
@@ -60,7 +60,7 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 |                     | CNN-GRU       | 0.262 | 0.0686 | 0.1364 | -0.0318 |
 |                     | LSTM-CNN      | 0.2496| 0.0623 | 0.208  | -0.187  |
 |                     | GRU-CNN       | 0.1727| 0.0298 | 0.0923 | 0.0235  |
-| DKASC-AS-2Eco [69]  | Decision Tree | 0.4911| 0.2412 | 0.1909 | 0.0709  |
+| DKASC-AS-2Eco       | Decision Tree | 0.4911| 0.2412 | 0.1909 | 0.0709  |
 |                     | SVR           | 0.456 | 0.2079 | 0.2246 | 0.0187  |
 |                     | LSTM          | 0.3167| 0.1003 | 0.157  | -0.0158 |
 |                     | GRU           | 0.3302| 0.109  | 0.1726 | -0.0176 |
@@ -68,7 +68,7 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 |                     | CNN-GRU       | 0.2801| 0.0784 | 0.1467 | 0.0132  |
 |                     | LSTM-CNN      | 0.2274| 0.0517 | 0.1599 | -0.0155 |
 |                     | GRU-CNN       | 0.1646| 0.0271 | 0.1157 | -0.0641 |
-| DKASC-Yulara-SITE-3A [70] | Decision Tree | 0.416 | 0.173  | 0.2566 | 0.0159  |
+| DKASC-Yulara-SITE-3A  | Decision Tree | 0.416 | 0.173  | 0.2566 | 0.0159  |
 |                     | SVR           | 0.4966| 0.2466 | 0.2443 | -0.0122 |
 |                     | LSTM          | 0.3627| 0.1315 | 0.1735 | 0.0561  |
 |                     | GRU           | 0.3864| 0.1493 | 0.2368 | -0.0013 |
