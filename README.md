@@ -76,6 +76,27 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 |                     | CNN-GRU       | 0.3063| 0.0938 | 0.1506 | 0.0354  |
 |                     | LSTM-CNN      | 0.2465| 0.0608 | 0.155  | 0.0919  |
 |                     | GRU-CNN       | 0.1715| 0.0294 | 0.1126 | 0.0099  |
-## Comparision with 
+##### Comparision with SOTA
+# Method Performance on Datasets
+
+| Dataset             | Method       | RMSE  | MSE  | MAE   | MBE    |
+|---------------------|--------------|-------|------|-------|--------|
+| DKASC-AS-1B [68]    | LSTM [45]    | 0.709 | -    | 0.327 | -      |
+|                     | CNN [45]     | 0.822 | -    | 0.304 | -      |
+|                     | CNN-LSTM [45]| 0.693 | -    | 0.294 | -      |
+|                     | LSTM-CNN [45]| 0.621 | -    | 0.221 | -      |
+|                     | GRU-CNN      | 0.1727| 0.0298| 0.0923| 0.0235 |
+| DKASC-AS-2Eco [69]  | LSTM [44]    | 1.0382| -    | -     | -0.084 |
+|                     | GRU [44]     | 1.0351| -    | -     | 0.1206 |
+|                     | RNN [44]     | 1.0581| -    | -     | -0.1442|
+|                     | MLP [44]     | 1.0861| -    | -     | 0.1995 |
+|                     | WPD-LSTM [44]| 0.2357| -    | -     | 0.0067 |
+|                     | GRU-CNN      | 0.1646| 0.0271| 0.1157| -0.0641|
+| DKASC-Yulara-SITE-3A [70] | RCC-BPNN[71] | 1.173 | - | - | -      |
+|                           | RCC-RBFNN[71]| 1.37  | - | - | -      |
+|                           | RCC-Elman[71]| 1.158 | - | - | -      |
+|                           | LSTM[71]     | 1.017 | - | - | -      |
+|                           | RCC-LSTM[71] | 0.94  | - | 0.587| -      |
+|                           | GRU-CNN      | 0.1715| 0.0294| 0.1126| 0.0099 |
 
 
