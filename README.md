@@ -99,3 +99,16 @@ We appreciate your understanding and patience. Looking forward to assisting you!
 |                           | The Proposed (GRU-CNN)      | 0.1715| 0.0294| 0.1126| 0.0099 |
 
 
+BibTeX:
+
+```bibtex
+@article{hussain2022hybrid,
+  title={A hybrid deep learning-based network for photovoltaic power forecasting},
+  author={Hussain, Altaf and Khan, Zulfiqar Ahmad and Hussain, Tanveer and Ullah, Fath U Min and Rho, Seungmin and Baik, Sung Wook and others},
+  journal={Complexity},
+  volume={2022},
+  year={2022},
+  publisher={Hindawi}
+}
+
+
